@@ -18,9 +18,9 @@
 * 🏁[MNCTF](https://mnctf.info/) (Japanese)
 
 ## Misc
-* 🕳️[CVEStalker](https://cvestalker.com/)
-* 🧪[PowerShell Lab](https://shino.club/powershelllab/)
-* 👀[ShinoVis](https://shino.club/shinovis/)
+* 🕳️[CVEStalker](https://cvestalker.com/) Vulnerability(CVE) Billboard
+* 🧪[PowerShell Lab](https://shino.club/powershelllab/) Play with PS
+* 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 
 ## Talks
 * Black Hat USA 2013 Arsenal (https://www.blackhat.com/us-13/arsenal.html#Shinogi)
