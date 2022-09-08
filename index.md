@@ -23,15 +23,15 @@
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 
 ## Talks
-* Black Hat USA 2013 Arsenal (https://www.blackhat.com/us-13/arsenal.html#Shinogi)
-* Black Hat USA 2014 Arsenal (https://www.blackhat.com/us-14/arsenal.html#Shinogi)
-* Black Hat Asia 2015 Arsenal (https://www.blackhat.com/asia-15/arsenal.html#Shinogi)
-* Black Hat USA 2015 Arsenal (https://www.blackhat.com/us-15/arsenal.html#shota-shinogi)
-* RISEconf 2015
-* Black Hat USA 2016 Arsenal (https://www.blackhat.com/us-16/arsenal.html#shota-shinogi)
-* Black Hat Asia 2017 Arsenal (https://www.blackhat.com/asia-17/arsenal/schedule/#shinobotps1-5885)
-* DEFCON 25 Demolabs (https://defcon.org/html/defcon-25/dc-25-demolabs.html#ShinoBOT)
-* BSides Austin 2018 (https://bsidesaustin2018.sched.com/shota_shinogi.6z7mdw9)
+* [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
+* [Black Hat USA 2014 Arsenal](https://www.blackhat.com/us-14/arsenal.html#Shinogi)
+* [Black Hat Asia 2015 Arsenal](https://www.blackhat.com/asia-15/arsenal.html#Shinogi)
+* [Black Hat USA 2015 Arsenal](https://www.blackhat.com/us-15/arsenal.html#shota-shinogi)
+* [RISEconf 2015
+* [Black Hat USA 2016 Arsenal](https://www.blackhat.com/us-16/arsenal.html#shota-shinogi)
+* [Black Hat Asia 2017 Arsenal](https://www.blackhat.com/asia-17/arsenal/schedule/#shinobotps1-5885)
+* [DEFCON 25 Demolabs](https://defcon.org/html/defcon-25/dc-25-demolabs.html#ShinoBOT)
+* [BSides Austin 2018](https://bsidesaustin2018.sched.com/shota_shinogi.6z7mdw9)
 
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
