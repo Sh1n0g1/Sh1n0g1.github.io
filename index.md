@@ -9,10 +9,10 @@
 
 # Projects 
 ## Malware Simulator for Testing Purpose
-* 👿Backdoor simulator(exe)👿 [ShinoBOT](https://shinosec.com)
-* 😈Backdoor simulator(ps1) [ShinoBOT.ps1](https://shinobotps1.com)
-* 💀APT simulator [ShinoBOT Suite](https://shinosec.com/shinobotsuite/)
-* 🔒Ransomware simulator [ShinoLocker](https://shinolocker.com/)
+* [ShinoBOT](https://shinosec.com)👿Backdoor simulator(exe)
+* [ShinoBOT.ps1](https://shinobotps1.com)😈Backdoor simulator(ps1) 
+* [ShinoBOT Suite](https://shinosec.com/shinobotsuite/)💀APT simulator 
+* [ShinoLocker](https://shinolocker.com/)🔒Ransomware simulator 
 
 ## CTF (sponsored by my owner; Macnica Inc)
 * 🏁[MNCTF](https://mnctf.info/) (Japanese)
@@ -35,4 +35,4 @@
 
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
-* ☕[Buy me a coffee](buymeacoffee.com/Sh1n0g1)
+* ☕[Buy me a coffee](https://buymeacoffee.com/Sh1n0g1)
