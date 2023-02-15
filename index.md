@@ -33,6 +33,7 @@
 * [Black Hat Asia 2017 Arsenal](https://www.blackhat.com/asia-17/arsenal/schedule/#shinobotps1-5885)
 * [DEFCON 25 Demolabs](https://defcon.org/html/defcon-25/dc-25-demolabs.html#ShinoBOT)
 * [BSides Austin 2018](https://bsidesaustin2018.sched.com/shota_shinogi.6z7mdw9)
+* [Bsides Tokyo 2023](https://bsides.tokyo/2023/index.html)
 
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
