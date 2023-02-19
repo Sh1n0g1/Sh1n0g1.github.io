@@ -35,6 +35,11 @@
 * [BSides Austin 2018](https://bsidesaustin2018.sched.com/shota_shinogi.6z7mdw9)
 * [Bsides Tokyo 2023](https://bsides.tokyo/2023/index.html)
 
+## Training
+The training that I joined as trainner.
+* Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+* Global Cybersecurity Camp 2023
+
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
 * ☕[Buy me a coffee](https://buymeacoffee.com/Sh1n0g1)
