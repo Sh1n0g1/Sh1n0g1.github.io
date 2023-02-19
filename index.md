@@ -38,7 +38,7 @@
 ## Training
 The trainings I joined as trainner.
 * Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
-* Global Cybersecurity Camp 2023
+* [Global Cybersecurity Camp 2023](https://gcc.ac/gcc_2023/)
 
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
