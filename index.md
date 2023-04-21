@@ -22,6 +22,7 @@
 * 🧪[PowerShell Lab](https://shino.club/powershelllab/) Play with PS
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 * 🖼️[AES ECB Image Decryptor](https://shino.club/aesecbdecryptor/) AES ECB Online Image Decryptor
+* 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
 
 ## Talks
 * [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
