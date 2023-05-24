@@ -17,12 +17,17 @@
 ## CTF (sponsored by my owner; Macnica Inc)
 * 🏁[MNCTF](https://mnctf.info/) (Japanese)
 
+## AI Related Project
+* 🎞️[YouTube Summarizer](https://gist.github.com/Sh1n0g1/d69db6dbc5c13ce887c23c6828658570) Google Colab + LangChain + OpenAI API
+* 📄[Document QA ShinoLang](https://gist.github.com/Sh1n0g1/eee5daef2ab9dacc14348c095620630e) (Japanese)Google Colab + LangChain + OpenAI API
+* 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
+
 ## Misc
 * 🕳️[CVEStalker](https://cvestalker.com/) Vulnerability(CVE) Billboard
 * 🧪[PowerShell Lab](https://shino.club/powershelllab/) Play with PS
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 * 🖼️[AES ECB Image Decryptor](https://shino.club/aesecbdecryptor/) AES ECB Online Image Decryptor
-* 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
+
 
 ## Talks
 * [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
