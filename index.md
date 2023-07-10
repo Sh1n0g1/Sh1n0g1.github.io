@@ -51,3 +51,12 @@ The trainings I joined as trainner.
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
 * ☕[Buy me a coffee](https://buymeacoffee.com/Sh1n0g1)
+
+# Photos
+![2015_Black_Hat_USA.JPG](img/2015_Black_Hat_USA.JPG "2015_Black_Hat_USA.JPG")
+![2015_RISE_Hong_Kong.JPG](img/2015_RISE_Hong_Kong.JPG "2015_RISE_Hong_Kong.JPG")
+![2015_RISE_with_Mikko.JPG](img/2015_RISE_with_Mikko.JPG "2015_RISE_with_Mikko.JPG")
+![2016_Black_Hat_USA.JPG](img/2016_Black_Hat_USA.JPG "2016_Black_Hat_USA.JPG")
+![2017_Black_Hat_Asia.jpg](img/2017_Black_Hat_Asia.jpg "2017_Black_Hat_Asia.jpg")
+![2017_DEFCON_25_Demo_Labs.JPG](img/2017_DEFCON_25_Demo_Labs.JPG "2017_DEFCON_25_Demo_Labs.JPG")
+![2017_DEFCON_25_with_DT.JPG](img/2017_DEFCON_25_with_DT.JPG "2017_DEFCON_25_with_DT.JPG")
