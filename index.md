@@ -23,6 +23,7 @@
 * 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
 
 ## Misc
+* 🔍[Z9 PowerShell Analyzer](https://z9.shino.club/) Malicious PowerShell Script Analyzer
 * 🕳️[CVEStalker](https://cvestalker.com/) Vulnerability(CVE) Billboard
 * 🧪[PowerShell Lab](https://shino.club/powershelllab/) Play with PS
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
