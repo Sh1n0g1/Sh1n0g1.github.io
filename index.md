@@ -49,6 +49,8 @@
 The trainings I joined as trainner.
 * Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
 * [Global Cybersecurity Camp 2023](https://gcc.ac/gcc_2023/)
+    * I got inverviewed about my session "PowerShell Malware", and it is published in YouTube
+   [![PowerShell Script Malware Detection](https://img.youtube.com/vi/xym4RbAiplU/0.jpg)](https://www.youtube.com/watch?v=xym4RbAiplU) 
 
 # SNS
 * 🐤[Twitter](https://twitter.com/Sh1n0g1/)
