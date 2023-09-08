@@ -30,7 +30,7 @@
 * 🖼️[AES ECB Image Decryptor](https://shino.club/aesecbdecryptor/) AES ECB Online Image Decryptor
 
 
-## Talks
+# Talks
 * [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
 * [Black Hat USA 2014 Arsenal](https://www.blackhat.com/us-14/arsenal.html#Shinogi)
 * [Black Hat Asia 2015 Arsenal](https://www.blackhat.com/asia-15/arsenal.html#Shinogi)
@@ -45,15 +45,15 @@
 * [Black Hat USA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
 
 
-## Training
-The trainings I joined as trainner.
+# Trainings (joined as a trainer)
 * Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
 * [Global Cybersecurity Camp 2023](https://gcc.ac/gcc_2023/)
     * I got inverviewed about my session "PowerShell Malware", and it is published in YouTube
    [![PowerShell Script Malware Detection](https://img.youtube.com/vi/xym4RbAiplU/0.jpg)](https://www.youtube.com/watch?v=xym4RbAiplU) 
 
 # SNS
-* 🐤[Twitter](https://twitter.com/Sh1n0g1/)
+* ✖[(X)Twitter](https://twitter.com/Sh1n0g1/)
+* 🔗[LinkedIn](https://www.linkedin.com/in/shota-shinogi/)
 * ☕[Buy me a coffee](https://buymeacoffee.com/Sh1n0g1)
 
 # Photos
