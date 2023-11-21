@@ -43,7 +43,7 @@
 * [Bsides Tokyo 2023](https://bsides.tokyo/2023/index.html)
 * [BSides Brisbane 2023](https://bsidesbrisbane.com/schedule/)
 * [Black Hat USA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
-* [[Black Hat MEA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)](https://blackhatmea.com/speaker/shota-shinogi)
+* [Black Hat MEA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
 
 
 # Trainings (joined as a trainer)
