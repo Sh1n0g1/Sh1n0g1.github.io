@@ -67,3 +67,6 @@
 ![2017_DEFCON_25_Demo_Labs.JPG](img/2017_DEFCON_25_Demo_Labs.JPG "2017_DEFCON_25_Demo_Labs.JPG")
 ![2017_DEFCON_25_with_DT.JPG](img/2017_DEFCON_25_with_DT.JPG "2017_DEFCON_25_with_DT.JPG")
 
+![2023_BSides_Tokyo.jpg](img/2023_BSides_Tokyo.jpg)
+
+![2023_BSides_Bribanne.jpg](img/2023_BSides_Bribanne.jpg)
