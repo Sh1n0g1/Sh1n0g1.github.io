@@ -14,7 +14,7 @@
 * [ShinoBOT Suite](https://shinosec.com/shinobotsuite/)💀APT simulator 
 * [ShinoLocker](https://shinolocker.com/)🔒Ransomware simulator 
 
-## CTF (sponsored by my owner; Macnica Inc)
+## CTF (sponsored by Macnica Inc)
 * 🏁[MNCTF](https://mnctf.info/) (Japanese)
 
 ## AI Related Project
@@ -49,8 +49,9 @@
 # Trainings (joined as a trainer)
 * Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
 * [Global Cybersecurity Camp 2023](https://gcc.ac/gcc_2023/)
-    * I got inverviewed about my session "PowerShell Malware", and it is published in YouTube
+    * I got inverviewed about my session "PowerShell Malware", and it is on YouTube
    [![PowerShell Script Malware Detection](https://img.youtube.com/vi/xym4RbAiplU/0.jpg)](https://www.youtube.com/watch?v=xym4RbAiplU) 
+* [Global Cybersecurity Camp 2024](https://gcc.ac/gcc_2024/)
 
 # SNS
 * ✖[(X)Twitter](https://twitter.com/Sh1n0g1/)
@@ -65,3 +66,4 @@
 ![2017_Black_Hat_Asia.jpg](img/2017_Black_Hat_Asia.jpg "2017_Black_Hat_Asia.jpg")
 ![2017_DEFCON_25_Demo_Labs.JPG](img/2017_DEFCON_25_Demo_Labs.JPG "2017_DEFCON_25_Demo_Labs.JPG")
 ![2017_DEFCON_25_with_DT.JPG](img/2017_DEFCON_25_with_DT.JPG "2017_DEFCON_25_with_DT.JPG")
+
