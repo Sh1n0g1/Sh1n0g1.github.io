@@ -16,6 +16,7 @@
 
 ## CTF (sponsored by Macnica Inc)
 * 🏁[MNCTF](https://mnctf.info/) (Japanese)
+  * Permanent CTF for beginners and professionals
 
 ## AI Related Project
 * 🎞️[YouTube Summarizer](https://gist.github.com/Sh1n0g1/d69db6dbc5c13ce887c23c6828658570) Google Colab + LangChain + OpenAI API
@@ -29,6 +30,13 @@
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 * 🖼️[AES ECB Image Decryptor](https://shino.club/aesecbdecryptor/) AES ECB Online Image Decryptor
 
+# Communities
+* 🥚[CyberTamago](https://cybertamago.org/)
+  * A community for the open-source developers
+  * If you have a tools you want to list up on the website, please contact me
+
+* 🚢[HamaSec](https://hamasec.connpass.com/)
+  * A local cybersecurity community for Yokohama city.
 
 # Talks
 * [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
