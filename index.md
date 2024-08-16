@@ -54,12 +54,14 @@
 * [Black Hat MEA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
 
 
-# Trainings (joined as a trainer)
-* Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+# Trainings (that I joined as a trainer)
+* Security Camp 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2024
 * [Global Cybersecurity Camp 2023](https://gcc.ac/gcc_2023/)
     * I got inverviewed about my session "PowerShell Malware", and it is on YouTube
    [![PowerShell Script Malware Detection](https://img.youtube.com/vi/xym4RbAiplU/0.jpg)](https://www.youtube.com/watch?v=xym4RbAiplU) 
 * [Global Cybersecurity Camp 2024](https://gcc.ac/gcc_2024/)
+* [BSides Las Vegas 2024](https://bsideslv.org/talks#YDMGA3)
+    * How (not) to build a vulnerable LLM app
 
 # SNS
 * ✖[(X)Twitter](https://twitter.com/Sh1n0g1/)
