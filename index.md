@@ -22,7 +22,7 @@
 * 🎞️[YouTube Summarizer](https://gist.github.com/Sh1n0g1/d69db6dbc5c13ce887c23c6828658570) Google Colab + LangChain + OpenAI API
 * 📄[Document QA ShinoLang](https://gist.github.com/Sh1n0g1/eee5daef2ab9dacc14348c095620630e) (Japanese)Google Colab + LangChain + OpenAI API
 * 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
-
+* 📄[ShinoLLMApps](https://www.shinohack.me/shinollmapp/) Vulnerable LLM Apps
 ## Misc
 * 🔍[Z9 PowerShell Analyzer](https://z9.shino.club/) Malicious PowerShell Script Analyzer
 * 🕳️[CVEStalker](https://cvestalker.com/) Vulnerability(CVE) Billboard
