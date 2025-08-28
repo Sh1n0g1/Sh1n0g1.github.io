@@ -19,19 +19,20 @@
   * Permanent CTF for beginners and professionals
 
 ## AI Related Project
-* 🎞️[YouTube Summarizer](https://gist.github.com/Sh1n0g1/d69db6dbc5c13ce887c23c6828658570) Google Colab + LangChain + OpenAI API
-* 📄[Document QA ShinoLang](https://gist.github.com/Sh1n0g1/eee5daef2ab9dacc14348c095620630e) (Japanese)Google Colab + LangChain + OpenAI API
-* 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary Powered By ChatGPT
+* [Matrix Prompt Injection Tool](https://github.com/Sh1n0g1/mpit-matrix_prompt_injection_tool) Prompt Injection Pentest Tool
 * 📄[ShinoLLMApps](https://www.shinohack.me/shinollmapp/) Vulnerable LLM Apps
+* 📰[Matomeru-kun](https://matomerukun.shino.club/) (Japanese) News Summary 
+* 🎞️[YouTube Summarizer]([https://gist.github.com/Sh1n0g1/d69db6dbc5c13ce887c23c6828658570](https://github.com/Sh1n0g1/yt_summarizer)) YouTube API + OpenAI API
+* 📄[Document QA ShinoLang](https://gist.github.com/Sh1n0g1/eee5daef2ab9dacc14348c095620630e) (Japanese)Google Colab + LangChain + OpenAI API
+
 
 
 ## Misc
 * 🔍[Z9 PowerShell Analyzer](https://z9.shino.club/) Malicious PowerShell Script Analyzer
-* 🕳️[CVEStalker](https://cvestalker.com/) Vulnerability(CVE) Billboard
 * 🧪[PowerShell Lab](https://shino.club/powershelllab/) Play with PS
 * 👀[ShinoVis](https://shino.club/shinovis/) Network Graph Generator
 * 🖼️[AES ECB Image Decryptor](https://shino.club/aesecbdecryptor/) AES ECB Online Image Decryptor
-
+ 
 # Communities
 * 🥚[CyberTamago](https://cybertamago.org/)
   * A community for the open-source developers
@@ -41,10 +42,10 @@
   * A local cybersecurity community for Yokohama city.
 
 # Talks
-* [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi)
-* [Black Hat USA 2014 Arsenal](https://www.blackhat.com/us-14/arsenal.html#Shinogi)
-* [Black Hat Asia 2015 Arsenal](https://www.blackhat.com/asia-15/arsenal.html#Shinogi)
-* [Black Hat USA 2015 Arsenal](https://www.blackhat.com/us-15/arsenal.html#shota-shinogi)
+* [Black Hat USA 2013 Arsenal](https://www.blackhat.com/us-13/arsenal.html#Shinogi) 
+* [Black Hat USA 2014 Arsenal](https://www.blackhat.com/us-14/arsenal.html#Shinogi) 
+* [Black Hat Asia 2015 Arsenal](https://www.blackhat.com/asia-15/arsenal.html#Shinogi) 
+* [Black Hat USA 2015 Arsenal](https://www.blackhat.com/us-15/arsenal.html#shota-shinogi) 
 * RISEconf 2015
 * [Black Hat USA 2016 Arsenal](https://www.blackhat.com/us-16/arsenal.html#shota-shinogi)
 * [Black Hat Asia 2017 Arsenal](https://www.blackhat.com/asia-17/arsenal/schedule/#shinobotps1-5885)
@@ -54,6 +55,8 @@
 * [BSides Brisbane 2023](https://bsidesbrisbane.com/schedule/)
 * [Black Hat USA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
 * [Black Hat MEA 2023 Arsenal](https://www.blackhat.com/us-23/arsenal/schedule/presenters.html#shota-shinogi-31941)
+* [DEFCON33 Demolabs](https://defcon.org/html/defcon-33/dc-33-demolabs.html#content_60861)
+    * [Video](https://www.youtube.com/watch?v=6idT7hsb7QE)
 
 
 # Trainings (that I joined as a trainer)
@@ -79,7 +82,7 @@
 ![2017_Black_Hat_Asia.jpg](img/2017_Black_Hat_Asia.jpg "2017_Black_Hat_Asia.jpg")
 ![2017_DEFCON_25_Demo_Labs.JPG](img/2017_DEFCON_25_Demo_Labs.JPG "2017_DEFCON_25_Demo_Labs.JPG")
 ![2017_DEFCON_25_with_DT.JPG](img/2017_DEFCON_25_with_DT.JPG "2017_DEFCON_25_with_DT.JPG")
-
 ![2023_BSides_Tokyo.jpg](img/2023_BSides_Tokyo.jpg)
-
 ![2023_BSides_Bribanne.jpg](img/2023_BSides_Bribanne.jpg)
+![2024 BSides LasVegas.jpg](img/BSidesLV2024_Shinogi.jpg)
+![2025 DEFCON_33.jpg](img/2025_DEFCON33.jpeg)
